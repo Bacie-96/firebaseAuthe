@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "registration-65e22": {
+      "hosting": {
+        "firebase-auth": [
+          "registration-65e22"
+        ]
+      }
+    }
+  }
+}
